@@ -1,10 +1,12 @@
 # Data_Analytics_CaseStudy_1
 
 **Case Study: How Does a Bike-Share Navigate Speedy Success?**
+
 I have taken this case study from the Google Data Analytics professional certificate on Coursera. In this case study, I work for a fictional company named **Cyclistic** which 
 is a bike sharing company. As a part of this case study, I will perform a lot of real-world tasks of a data analyst. 
 
 **Scenario**
+
 I am a junior data analyst working in the marketing analyst team at Cyclistic, a bike-share company in Chicago. The director
 of marketing believes the company’s future success depends on maximizing the number of annual memberships. Therefore,
 our team wants to understand how casual riders and annual members use Cyclistic bikes differently. From these insights,
@@ -13,6 +15,7 @@ must approve our recommendations, so they must be backed up with compelling data
 visualizations. 
 
 **Characters and teams**
+
 1) **Cyclistic:** A bike-share program that features more than 5,800 bicycles and 600 docking stations. Cyclistic sets itself
 apart by also offering reclining bikes, hand tricycles, and cargo bikes, making bike-share more inclusive to people with
 disabilities and riders who can’t use a standard two-wheeled bike. The majority of riders opt for traditional bikes; about
